@@ -1,0 +1,5 @@
+C:\Users\Eric\source\repos\GitConflicterX\obj\Debug\net6.0\GitConflicterX.csproj.AssemblyReference.cache
+C:\Users\Eric\source\repos\GitConflicterX\obj\Debug\net6.0\GitConflicterX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\source\repos\GitConflicterX\obj\Debug\net6.0\GitConflicterX.AssemblyInfoInputs.cache
+C:\Users\Eric\source\repos\GitConflicterX\obj\Debug\net6.0\GitConflicterX.AssemblyInfo.cs
+C:\Users\Eric\source\repos\GitConflicterX\obj\Debug\net6.0\GitConflicterX.csproj.CoreCompileInputs.cache
